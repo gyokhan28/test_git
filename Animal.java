@@ -10,4 +10,7 @@ public class Animal {
     private void makeSound(){
 
     }
+    private void eat(){
+
+    }
 }
