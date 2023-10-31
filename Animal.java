@@ -7,5 +7,7 @@ public class Animal {
     private void removeAnimal(){
 
     }
+    private void makeSound(){
 
+    }
 }
