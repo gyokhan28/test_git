@@ -13,4 +13,7 @@ public class Animal {
     private void eat(){
 
     }
+    private void sleep(){
+
+    }
 }
