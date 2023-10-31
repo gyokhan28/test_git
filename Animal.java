@@ -4,4 +4,8 @@ public class Animal {
     public void addAnimal(Animal animal){
 
     }
+    private void removeAnimal(){
+
+    }
+
 }
